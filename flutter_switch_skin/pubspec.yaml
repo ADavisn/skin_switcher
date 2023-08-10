@@ -4,7 +4,7 @@ description: A new Flutter project.
 #版本
 version: 0.0.1
 #主页
-homepage: https://github.com/ADavisn12/skin_switcher.git
+homepage: https://github.com/ADavisn/skin_switcher.git
 #环境
 environment:
   sdk: '>=2.19.6 <3.0.0'
